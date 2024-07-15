@@ -11,8 +11,9 @@ import java.util.concurrent.CompletableFuture;
 public class TitleUtils {
     /**
      * TODO 喜欢我硬编码吗.jpg
+     * TODO 咱不喜欢特地来改 by 2024.7.15--chengming
      */
-    public static final String DEFAULT_TITLE = "Nova Engineering: World 1.13.1 by Hikari_Nova | Core Ver: " + NovaEngineeringCore.VERSION;
+    public static final String DEFAULT_TITLE = "辰林的世界 by chengming | Core Ver: " + NovaEngineeringCore.VERSION;
     public static final String VANILLA_TITLE = "Minecraft 1.12.2";
 
     public static String currentTitle = null;
